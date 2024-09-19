@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Xml_UI_Practice</string>
+    <string name="interstellar">Interstellar</string>
+    <string name="movie_desc">Lorem ipsum odor amet, consectetuer adipiscing elit. Nisl diam integer, finibus consequat ornare lacus. Nec urna a iaculis integer turpis quisque justo eget. Conubia sem pulvinar varius consequat convallis cras. Condimentum commodo ridiculus felis adipiscing platea eleifend. Sem morbi pharetra congue eleifend duis nulla auctor. Luctus iaculis curabitur cursus suspendisse in sagittis tempor purus.</string>
+    <string name="movie_back">movie_back</string>
+    <string name="movie_cover">movie_cover</string>
+    <string name="rent">Rent</string>
+    <string name="buy">Buy</string>
+    <string name="_4_9">4.9</string>
+    <string name="family">Family</string>
+    <string name="_85">85%</string>
+    <string name="similar">Similar</string>
+    <string name="icon">icon</string>
+</resources>
